@@ -1,0 +1,14 @@
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\bin\Debug\net8.0\City Without Province Finder.exe
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\bin\Debug\net8.0\City Without Province Finder.deps.json
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\bin\Debug\net8.0\City Without Province Finder.runtimeconfig.json
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\bin\Debug\net8.0\City Without Province Finder.dll
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\bin\Debug\net8.0\City Without Province Finder.pdb
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\obj\Debug\net8.0\City Without Province Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\obj\Debug\net8.0\City Without Province Finder.AssemblyInfoInputs.cache
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\obj\Debug\net8.0\City Without Province Finder.AssemblyInfo.cs
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\obj\Debug\net8.0\City Without Province Finder.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\obj\Debug\net8.0\City Without Province Finder.dll
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\obj\Debug\net8.0\refint\City Without Province Finder.dll
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\obj\Debug\net8.0\City Without Province Finder.pdb
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\obj\Debug\net8.0\City Without Province Finder.genruntimeconfig.cache
+D:\Personal Projects\Rider\City Without Province Finder\City Without Province Finder\obj\Debug\net8.0\ref\City Without Province Finder.dll
